@@ -1,0 +1,26 @@
+.header {
+    background-color: #1F2937;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.header_logo {
+    color: white;
+}
+
+.header_one {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.header_two {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.header_three {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
